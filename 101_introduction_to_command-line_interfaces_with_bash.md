@@ -128,7 +128,7 @@ Now follow along with the example.
 Remember, if `cat` does not show any output, it is because you (probably) left the files empty.
 
 ```
-   Copyright 2018 Open Source Academy
+   Copyright 2018 Opensource Academy
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
