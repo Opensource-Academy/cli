@@ -127,6 +127,10 @@ Now follow along with the example.
 
 Remember, if `cat` does not show any output, it is because you (probably) left the files empty.
 
+## Additional resources
+
+If you would like to learn more about Linux and the commandline, check out this free online available book [The Linux Command Line](http://linuxcommand.org/tlcl.php).
+
 ```
    Copyright 2018 Opensource Academy
 
